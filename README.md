@@ -47,4 +47,5 @@ GlowHub is a responsive, modern website designed to showcase various services, p
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/glowhub.git
+   git clone https://github.com/shamvilhossain/Mern-B03.git
+
